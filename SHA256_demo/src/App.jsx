@@ -21,6 +21,14 @@ function App() {
       <h3 className='text-5xl'>Hash:-</h3>
       <GenerateHash></GenerateHash>
       </div>
+      <br>
+      </br>
+      <div>
+        <h1 className='font-bold text-7xl m-3 p-3'>BLOCK</h1>
+        
+        
+         
+      </div>
       </div>
   )
   function GenerateHash(){
